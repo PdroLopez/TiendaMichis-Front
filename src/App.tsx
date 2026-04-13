@@ -22,7 +22,7 @@ function App() {
 
         <a className="navbar-brand" href="#">
           <img src="/src/assets/logo.png" alt="logo" width="40" />
-        </a> <h5> Tienda Fofi </h5>
+        </a> <h5> Tienda Fofi Prueba Git </h5>
         <button
           className="navbar-toggler"
           data-bs-toggle="collapse"
